@@ -12,5 +12,6 @@ namespace Projekat.Models
         public List<Voznja> Voznje { get; set; }
         public Lokacija Lokacija { get; set; }
         public Automobil Automobil { get; set; }
+
     }
 }
